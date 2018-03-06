@@ -1,0 +1,13 @@
+README
+Introduction:
+The following project contains the implementation of the eleven methods found on CodingBat in setstuff.  This includes ret17, zerothElement, contains, anyContains, union, intersect, nearestUnvisitedNode, listify, addEdge, collectNodes, and setInfinity.
+Fulfillment of Specifications:
+All of the methods here passed CodingBat's trials.  This means that for a substantial amount of trials, including test cases, the methods worked.
+Errors:
+Even though these methods worked on CodingBat, it is still possible that there could be an error.  There also might be more concise ways of writing these methods
+Overview:
+The structure of this code is fairly simple: its simply a collection of methods.  They are not dependent on each other to run.
+Major Challenge:
+My greatest challenge was probably interpreting what the instruction to each problem actually meant.  Some of then were somewhat abstract
+Acknowledgments:
+I found the prompt for nearestUnvisitedNode kind of confusing, so I worked with the people who sit around me to solve it. This included Amelia and Elyssa.
